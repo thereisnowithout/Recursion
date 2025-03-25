@@ -22,5 +22,7 @@ int main(int argc, const char * argv[]) {
     int r;
     r = fun(5);
     printf("%.d", r);
+    r = fun(5);
+    printf("%.d", r);
     return 0;
 }
